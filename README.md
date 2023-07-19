@@ -1,6 +1,4 @@
-# Intro_to_Deep_Learning_Project
-
-## Understanding Political Polarisation using NLP
+# Understanding Political Polarisation using NLP
 
 This repository is for hosting the code for the project 'Understanding Political Polarisation using NLP' 
 as a part of 11785-Intro to Deep Learning course at Carnegie Mellon University.
