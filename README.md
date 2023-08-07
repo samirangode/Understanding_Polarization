@@ -50,3 +50,21 @@ their personal details such as name, party, education, political life etc.
 
 
 
+## Citing our work
+
+If you find our work useful in your research or if you use parts of this code, please consider citing our paper:
+Gode, S., Bare, S., Raj, B., & Yoo, H. (2023). Understanding political polarization using language models: A dataset and method. AI Magazine, 1–7. https://doi.org/10.1002/aaai.12104
+
+### BibTeX
+
+For LaTeX users, you can use the following BibTeX entry:
+
+```bibtex
+@article{gode2023understanding,
+  title={Understanding political polarization using language models: A dataset and method},
+  author={Gode, S. and Bare, S. and Raj, B. and Yoo, H.},
+  journal={AI Magazine},
+  pages={1--7},
+  year={2023},
+  doi={https://doi.org/10.1002/aaai.12104}
+}
