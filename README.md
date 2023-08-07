@@ -1,6 +1,5 @@
 # Understanding Political Polarisation using NLP
-Update: Data coming soon. Please contact the authors for the data.
-
+Update: Data coming soon!
 This repository is for hosting the code and data for the publication: "Understanding political polarization using languagemodels: A dataset and method". 
 
 This work was done as part of the course project 'Understanding Political Polarisation using NLP' 
