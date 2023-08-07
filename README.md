@@ -1,4 +1,4 @@
-# Understanding Political Polarisation using NLP
+# Understanding political polarization using languagemodels: A dataset and method
 Update: Data coming soon!
 This repository is for hosting the code and data for the publication: "Understanding political polarization using languagemodels: A dataset and method". 
 
