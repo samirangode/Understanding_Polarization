@@ -1,7 +1,10 @@
 # Understanding Political Polarisation using NLP
-Update: Please contact the authors for the data.
-This repository is for hosting the code for the project 'Understanding Political Polarisation using NLP' 
-as a part of 11785-Intro to Deep Learning course at Carnegie Mellon University.
+Update: Data coming soon. Please contact the authors for the data.
+
+This repository is for hosting the code and data for the publication: "Understanding political polarization using languagemodels: A dataset and method". 
+
+This work was done as part of the course project 'Understanding Political Polarisation using NLP' 
+for 11785-Intro to Deep Learning course at Carnegie Mellon University.
 
 
 The structure explaining different branches of the report are:
